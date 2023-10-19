@@ -4,6 +4,9 @@ import java.util.Scanner;
 public class Codigo4 {
 
     public static void main(String[] args) {
+
+        //Supo identificar inmediatamente las fallas del codigo, cambio la sintaxis para q sea mas amigable al usuario e hizo que funcionara correcta y optima
+        //Calificacion 5
     	
     	//Importar clase Scanner y agregar el System.in
         Scanner s = new Scanner(System.in);
